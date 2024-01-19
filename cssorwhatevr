@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:mistyrose;
+    font-family: 'Rubik Bubbles', system-ui;
+}
+
+p {
+    font-size: 50px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: rgb(255, 112, 207);
+    -webkit-text-stroke-width: 4px;
+}
+
